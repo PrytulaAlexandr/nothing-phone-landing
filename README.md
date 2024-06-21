@@ -28,3 +28,10 @@ Learned how to apply grid to the hole page
 How to structure my code by separating everything into its own file
 <br/>
 How to use most of the features of SASS (cycles, functions, mixins, etc.)
+
+# Contacts
+Telegram - https://t.me/oleksandr_prytula_dev
+<br/>
+Linkedin - https://www.linkedin.com/in/oleksandr-prytula
+<br/>
+Email - o.prytula.dev@gmail.com
